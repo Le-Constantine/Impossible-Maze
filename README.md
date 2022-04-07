@@ -1,7 +1,11 @@
- 
+ > Open this page at [https://le-constantine.github.io/impossible-maze/](https://le-constantine.github.io/impossible-maze/)
 
+## Support
 
-> Open this page at [https://le-constantine.github.io/impossible-maze/](https://le-constantine.github.io/impossible-maze/)
+If you need support, please contact Matthew on Discord
+
+Discord: MatthewW191#1021
+
 
 ## Use as Extension
 
